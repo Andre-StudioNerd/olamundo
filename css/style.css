@@ -2,6 +2,7 @@ body{
     background-image: url('http://www.vanessametonini.com.br/imersaocss/a1/img/fundo.jpg');
     font-family: Arial, Helvetica, sans-serif;
     background-size: auto 100vh;
+    height:100vh ;
 
 }
 
