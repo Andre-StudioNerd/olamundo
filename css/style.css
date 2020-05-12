@@ -29,6 +29,10 @@
     justify-content: center;
     flex-wrap: wrap;
   }
+
+  .alinha:{
+      text-align:center;
+  }
   
   .menu {
     background-color: white;
