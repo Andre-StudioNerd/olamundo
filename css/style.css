@@ -32,11 +32,17 @@
 
   figure{
       float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
   }
 
   .alinha{
-      text-align:center;
-      padding:10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
   }
   
   .menu {
