@@ -45,6 +45,10 @@
     justify-content: center;
     flex-wrap: wrap;
   }
+
+  h2{
+    padding: 10px;
+  }
   
   .menu {
     background-color: white;
