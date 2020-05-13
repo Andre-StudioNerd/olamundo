@@ -130,9 +130,10 @@ a:hover {
 
 .img-portfolio {
   height: auto;
-  width: 300px;
+  width: 400px;
   object-fit: cover;
   object-position: left bottom;
+  padding: 10px;
 }
 
 figcaption {
