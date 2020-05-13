@@ -96,4 +96,9 @@
   .secao{
     margin: 40px;
   }
+
+  .grid{
+    display: grid;
+    gap: 1em;
+  }
   
