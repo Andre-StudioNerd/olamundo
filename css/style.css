@@ -124,6 +124,9 @@ a:hover {
 .portfolio figure {
   text-align: center;
 }
+.alinha_texto {
+  text-align: center;
+}
 
 .img-portfolio {
   height: auto;
