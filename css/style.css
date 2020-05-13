@@ -31,6 +31,10 @@
     flex-wrap: wrap;
   }
 
+  .alinha figure{
+    text-align: center;
+  }
+
   figure{
       float: left;
     display: flex;
