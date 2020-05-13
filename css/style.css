@@ -50,6 +50,9 @@
     justify-content: center;
     flex-wrap: wrap;
   }
+  .alinha_img{
+    width: 100%;
+  }
 
   h2{
     padding: 10px;
